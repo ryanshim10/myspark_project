@@ -1,5 +1,5 @@
 pyrealsense2==2.54.1.5217
-opencv-python==4.8.0.76
+opencv-python==4.8.1.78
 numpy==1.26.4
 Pillow==10.3.0
 pyzbar==0.1.9
