@@ -1,0 +1,9 @@
+pyrealsense2==2.54.1.5217
+opencv-python==4.8.0.76
+numpy==1.26.4
+Pillow==10.2.0
+pyzbar==0.1.9
+tk==0.1.0
+loguru==0.7.2
+wmi==1.5.1
+pywin32==305
